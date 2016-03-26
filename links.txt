@@ -1,0 +1,3 @@
+# Config HDMI LCD and Touch
+http://www.waveshare.com/5inch-HDMI-LCD.htm
+https://blog.ask-a.ninja/?p=48
